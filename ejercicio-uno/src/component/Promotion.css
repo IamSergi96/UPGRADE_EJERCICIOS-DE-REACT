@@ -1,0 +1,21 @@
+
+
+.promotion{
+    width: 100%;
+    height: 30rem;
+    background-image: url("https://gaming-cdn.com/img/products/9579/hcover/9579.jpg");
+    background-repeat: unset;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+}
+h1, p{
+    margin-left: 300px;
+}
+.div1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
